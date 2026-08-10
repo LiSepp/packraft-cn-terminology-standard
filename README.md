@@ -33,10 +33,15 @@ v2.2 已替代 v2.1 作为当前执行标准；[v2.1](docs/packraft-cn-terminolo
 4. 数字、单位、安全警告和操作步骤必须逐项对照英文原文，不能由术语表自行补造。
 5. 完整术语、适用语境和禁用译法以 v2.2 标准文件为准。
 
+## 中文译本
+
+三份已经完成的中文译本收录在 [`translations`](translations/README.md) 目录，包括《读懂河流：水文学入门》《背包船运动》和《背包船手册》。《背包船手册》（2606译）是其中最适合新手入门的一本，但它翻译自旧版，部分机器翻译不够恰当；阅读技术动作时请留意目录说明中的具体误译和修订建议。
+
 ## 文档结构
 
 - `docs/packraft-cn-terminology-standard-v2.2.md`：当前完整术语标准
 - `docs/packraft-cn-terminology-standard-v2.1.md`：历史版本，供对照使用
+- `translations/`：已经完成的背包船与河流水文中文译本及阅读说明
 - `README.md`：仓库入口、版本说明和快速引用
 
 ## 维护约定
