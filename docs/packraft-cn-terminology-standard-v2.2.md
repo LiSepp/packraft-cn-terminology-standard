@@ -295,7 +295,7 @@
 
 | English | 标准译法 | 说明 |
 |---|---|---|
-| TPU | 热塑性聚氨酯 | Packraft 涂层和热焊材料。 |
+| TPU | TPU | Packraft 面料常用的涂层和热焊材料；正文保留缩写，不展开译为“热塑性聚氨酯”。 |
 | Denier | 旦尼尔 | 纤维线密度单位，常缩写为 D 或 d。 |
 | Self-bailing | 自排水式 | 描述船型或结构时使用；名词可写“自排水结构”。 |
 | Wet bond | 湿式粘接 | 胶层仍处于湿润状态时完成的粘接。 |
@@ -415,6 +415,7 @@
 | Power on / Power off | 主动发力 / 停止发力 | 动力开 / 动力关 | 不是设备电源开关。 |
 | Drysuit | 干衣 | 干式潜水服 | 本书指划桨与水上活动用干式防寒服。 |
 | PFD | 救生衣 | 个人漂浮装置 | 本书统一采用读者熟悉的“救生衣”；仅在直接引用法规、标准或产品正式名称时保留原名称。 |
+| TPU | TPU | 热塑性聚氨酯 | 本书统一保留材料缩写 TPU；仅在直接引用标准、化学名称或解释材料成分时按原文处理。 |
 | Wet exit | 水中离船 | 湿脱、水中离艇 | 必须明确脱离背包船的动作，并避免无必要的“艇”字泛称。 |
 | Wet re-entry | 水中重新登船 | 湿式重入、水中回艇 | 必须明确重新登上背包船的对象和结果。 |
 | Ferrule | 桨杆接头 | 桨连接管 | 该词指连接或锁定机构，不一定是管件。 |
@@ -469,6 +470,7 @@
 
 - 全面复核十类术语及定义，明确 Packraft 专属语境优先使用“背包船”；动作短称采用自然的“离船、登船”，泛指多种救援载具时使用“救援船”，清理无必要的“艇”“船艇”泛称。
 - 将 Packraft fit、Boat control、Outfitting 等分别修订为“背包船尺寸适配”“背包船操控”“背包船适配”，并调整 Bikerafting、Cargo、Perimeter line、Tether 等装备与活动用语。
+- 材料缩写 TPU 保留英文，不展开译为“热塑性聚氨酯”。
 - 修订水文及河道词：Hydrology、Gradient、Gauge、River gauge、Pool-drop、Cutbank、Undercut、Merging channels、Flash flood 等采用“水文学”“河段比降”“水位计”“水文测站”“跌水—深潭交替型河段”等更准确译法。
 - 修订白水流态与危险物：Hole 统一为“水洞”，明确 Strainer / Sieve 的结构差别，并调整 Keeper、Boil line、Pillow、Seam、Aeration、Green water、Recovery zone 等词。
 - 修订救援、绳索、医学与潮流词：Progress capture 改为“进度捕捉”，Recovery position 改为“恢复体位”，Hemorrhage 按程度区分“出血/大出血”，Flood / Ebb 改按潮流方向定义。
