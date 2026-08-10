@@ -50,8 +50,8 @@
 |---|---|---|
 | Packrafting equipment | 背包船装备 | 背包船活动所需装备的总称。 |
 | Personal protective equipment | 个人防护装备 | 包括救生衣、头盔、干衣等。 |
-| PFD | 个人漂浮装置 | 正文可按读者习惯写“救生衣（PFD）”；PFD 的概念范围可宽于传统救生衣，标准资料中亦见“个人浮力设备”。 |
-| Life vest | 救生衣 | 穿戴式漂浮装备。 |
+| PFD | 救生衣 | 背包船正文统一写“救生衣（PFD）”；后文可简称“救生衣”。引用法规、标准或产品正式名称时，按原文保留其名称。 |
+| Life vest | 救生衣 | 与本书 PFD 的统一译法一致；需要区分具体款式或等级时，按产品或法规名称说明。 |
 | Helmet | 头盔 | 白水环境用防护头盔。 |
 | Drysuit | 干衣 | 指划桨及水上活动用干式防寒服，不译为“干式潜水服”。 |
 | Seat | 座椅 | 背包船座体。 |
@@ -414,6 +414,7 @@
 | Read-and-run | 即视即划 | 边读边划 | Read 指观察和判读河流，不是阅读文字。 |
 | Power on / Power off | 主动发力 / 停止发力 | 动力开 / 动力关 | 不是设备电源开关。 |
 | Drysuit | 干衣 | 干式潜水服 | 本书指划桨与水上活动用干式防寒服。 |
+| PFD | 救生衣 | 个人漂浮装置 | 本书统一采用读者熟悉的“救生衣”；仅在直接引用法规、标准或产品正式名称时保留原名称。 |
 | Wet exit | 水中离船 | 湿脱、水中离艇 | 必须明确脱离背包船的动作，并避免无必要的“艇”字泛称。 |
 | Wet re-entry | 水中重新登船 | 湿式重入、水中回艇 | 必须明确重新登上背包船的对象和结果。 |
 | Ferrule | 桨杆接头 | 桨连接管 | 该词指连接或锁定机构，不一定是管件。 |
@@ -471,7 +472,7 @@
 - 修订水文及河道词：Hydrology、Gradient、Gauge、River gauge、Pool-drop、Cutbank、Undercut、Merging channels、Flash flood 等采用“水文学”“河段比降”“水位计”“水文测站”“跌水—深潭交替型河段”等更准确译法。
 - 修订白水流态与危险物：Hole 统一为“水洞”，明确 Strainer / Sieve 的结构差别，并调整 Keeper、Boil line、Pillow、Seam、Aeration、Green water、Recovery zone 等词。
 - 修订救援、绳索、医学与潮流词：Progress capture 改为“进度捕捉”，Recovery position 改为“恢复体位”，Hemorrhage 按程度区分“出血/大出血”，Flood / Ebb 改按潮流方向定义。
-- 补充 Garmin Response 当前名称，将 IERCC 明确为历史资料用名；对 PFD、WFR 等可能涉及不同标准或资质体系的词增加适用边界。
+- 补充 Garmin Response 当前名称，将 IERCC 明确为历史资料用名；PFD 统一译为“救生衣”，并对 WFR 等涉及不同资质体系的词增加适用边界。
 - 增补“易混术语与禁用译法”对照，取消容易过时的固定汇率，改为按翻译或出版日期标注换算依据。
 - v2.2 替代 v2.1 作为后续翻译与统一校订的执行版本；v2.1 的历史变更摘要保留于下文。
 
